@@ -1,2 +1,2 @@
-This is my first java projeect for calculating
-addition substraction multiplecation and divition.
+This is my first java project for calculating
+addition,substraction,multiplecation and divition.
